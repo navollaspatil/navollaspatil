@@ -34,7 +34,7 @@ I am currently learning git and github.
 # 📊 GitHub Streak 🔥:
 -  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navollaspatil&theme=tokyonight&hide_border=true" height="150"/> |
 
--  📈 Goal
+- ## 📈 Goal
 
 To become strong in **DSA and development** through consistent practice.  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
