@@ -7,8 +7,6 @@
 I am a tech enthousiast<br>
 I am currently learning python.
 <br>
-I am learning git.
-<br>
 I am currently learning git and github.
 
 
