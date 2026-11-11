@@ -31,5 +31,5 @@ I am currently learning git and github.
 - HackerRank    
 - VS Code
 # 📊 GitHub Streak 🔥:
--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranathi-codes&theme=tokyonight&hide_border=true" height="150"/> |
+-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navollaspatil&theme=tokyonight&hide_border=true" height="150"/> |
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
