@@ -28,10 +28,8 @@ I am currently learning git and github.
 
 - Java  
 - GitHub  
-- HackerRank  
-- VS Code / IntelliJ  
+- HackerRank    
 - VS Code
 
--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranathi-codes&theme=tokyonight&hide_border=true" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranathi-codes&layout=compact&theme=tokyonight&hide_border=true" height="150"/> |
-
+-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranathi-codes&theme=tokyonight&hide_border=true" height="150"/> |
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
