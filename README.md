@@ -1,5 +1,9 @@
 ## Never give up🦊🍃
 # 💫 This is me (●'◡'●) 🌀:
+💻 3nd Year Computer Science Student
+<br>
+📚 Learning Java, DSA, and Problem Solving 🔥 Building consistency with daily coding
+<br>
 I am a tech enthousiast<br>
 I am currently learning python.
 <br>
