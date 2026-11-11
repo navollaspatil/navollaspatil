@@ -1,5 +1,6 @@
 ## Never give up🦊🍃
 # 💫 This is me (●'◡'●) 🌀:
+# Hi 👋 I'm Navollas Patil
 💻 3nd Year Computer Science Student
 <br>
 📚 Learning Java, DSA, and Problem Solving 🔥 Building consistency with daily coding
@@ -32,4 +33,8 @@ I am currently learning git and github.
 - VS Code
 # 📊 GitHub Streak 🔥:
 -  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navollaspatil&theme=tokyonight&hide_border=true" height="150"/> |
+
+-  📈 Goal
+
+To become strong in **DSA and development** through consistent practice.  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
